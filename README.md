@@ -1,2 +1,2 @@
 # anomaly-detection
-test
+test anoma;y
